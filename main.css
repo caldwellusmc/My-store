@@ -1,0 +1,26 @@
+body {
+    font-size: 80.5%;
+    font-family: Calibri;
+    background: grey url(http://www.picpedia.org/highway-signs/images/basic.jpg)  no-repeat fixed top center;
+    padding: 0;
+    margin: 0 25% 0 10%;
+}
+h1{
+    text-shadow: -2px 2px;
+    text-decoration: underline;
+    color: Red;
+    font-size:  5.0em;
+    margin: 1em 0 0.5em 0;
+    padding: 0;
+}
+h2{
+    text-decoration: underline;
+    color: Red;
+    font-size: 5.0em;
+    padding: 0px;
+    margin: 1em 0 0.9em 0;
+}
+nav{
+  font-size: 2.5em;
+  margin: 0 0 0 0;
+}
